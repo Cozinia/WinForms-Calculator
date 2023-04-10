@@ -1,0 +1,11 @@
+C:\Users\Cozinia Motronu\source\repos\WindowsCloneCalculator\WindowsCloneCalculator\bin\Debug\WindowsCloneCalculator.exe.config
+C:\Users\Cozinia Motronu\source\repos\WindowsCloneCalculator\WindowsCloneCalculator\bin\Debug\WindowsCloneCalculator.exe
+C:\Users\Cozinia Motronu\source\repos\WindowsCloneCalculator\WindowsCloneCalculator\bin\Debug\WindowsCloneCalculator.pdb
+C:\Users\Cozinia Motronu\source\repos\WindowsCloneCalculator\WindowsCloneCalculator\obj\Debug\WindowsCloneCalculator.csproj.AssemblyReference.cache
+C:\Users\Cozinia Motronu\source\repos\WindowsCloneCalculator\WindowsCloneCalculator\obj\Debug\WindowsCloneCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cozinia Motronu\source\repos\WindowsCloneCalculator\WindowsCloneCalculator\obj\Debug\WindowsCloneCalculator.WinCloneCalculator.resources
+C:\Users\Cozinia Motronu\source\repos\WindowsCloneCalculator\WindowsCloneCalculator\obj\Debug\WindowsCloneCalculator.Properties.Resources.resources
+C:\Users\Cozinia Motronu\source\repos\WindowsCloneCalculator\WindowsCloneCalculator\obj\Debug\WindowsCloneCalculator.csproj.GenerateResource.cache
+C:\Users\Cozinia Motronu\source\repos\WindowsCloneCalculator\WindowsCloneCalculator\obj\Debug\WindowsCloneCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Cozinia Motronu\source\repos\WindowsCloneCalculator\WindowsCloneCalculator\obj\Debug\WindowsCloneCalculator.exe
+C:\Users\Cozinia Motronu\source\repos\WindowsCloneCalculator\WindowsCloneCalculator\obj\Debug\WindowsCloneCalculator.pdb
